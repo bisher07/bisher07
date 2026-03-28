@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Bisher 👋
 
-<!--
-**bisher07/bisher07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 Aspiring AI & Data Science Enthusiast  
+💻 Interested in software development, machine learning, and problem solving  
+🚀 Currently learning C++, Python, and core CS fundamentals  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C++
+- Python
+- Data Structures & Algorithms (learning)
+- Git & GitHub
+- Basics of AI / Data Science (in progress)
+
+---
+
+## 📚 Currently Learning
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Linear Algebra, Statistics, and Discrete Mathematics
+- Machine Learning Fundamentals
+- Data Science Basics (Python libraries, data analysis)
+
+---
+
+## 🚀 Projects
+
+### ♟️ Chess Game (SFML)
+A graphical chess game built using C++ and SFML.  
+Includes move validation, piece logic, and interactive UI rendering.
+
+### 🧮 Matrix Library (C++)
+A custom C++ matrix library implementing core linear algebra operations such as:
+- Matrix addition & subtraction  
+- Multiplication  
+- Transpose
+- Guassian elimination (REF)
+- Determinant
+- Inverse
+
+---
+
+## 🎯 Goals
+- Build strong foundations in CS
+- Become skilled in AI & Data Science
+- Develop real-world projects and applications
+- Improve C++ and system-level programming skills
+
+---
+
+## 📫 Contact
+- GitHub: [bisher07](https://github.com/bisher07)
+- Email: bisher.madi84@gmail.com
