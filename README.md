@@ -40,6 +40,11 @@ A custom C++ matrix library implementing core linear algebra operations such as:
 - Determinant
 - Inverse
 
+### 📈 Linear Regression from Scratch (C++)
+A linear regression model trained using gradient descent, implemented from scratch in C++.
+Predicts grades based on study hours. Includes a CSV data loader, training loop, and predictions.
+No external libraries used.
+
 ---
 
 ## 🎯 Goals
