@@ -1,60 +1,65 @@
-# Hi, I'm Bisher 👋
+# Hi, I'm Bisher
 
-🎓 Computer Science Student  
-🤖 Aspiring AI & Data Science Enthusiast  
-💻 Interested in software development, machine learning, and problem solving  
-🚀 Currently learning C++, Python, and core CS fundamentals  
+I’m a Computer Science student interested in AI, data science, and software development. I enjoy problem solving and like building things from scratch to really understand how they work.
+
+Right now, I’m focused on strengthening my fundamentals while exploring different areas in tech.
 
 ---
 
-## 🛠️ Skills
+## Skills
 - C++
-- Python
-- Data Structures & Algorithms (learning)
-- Git & GitHub
-- Basics of AI / Data Science (in progress)
-
----
-
-## 📚 Currently Learning
-- Object-Oriented Programming
+- Python  
 - Data Structures & Algorithms
-- Linear Algebra, Statistics, and Discrete Mathematics
-- Machine Learning Fundamentals
-- Data Science Basics (Python libraries, data analysis)
+- Git & GitHub  
+- Basic AI / Data Science knowledge  
 
 ---
 
-## 🚀 Projects
-
-### ♟️ Chess Game (SFML)
-A graphical chess game built using C++ and SFML.  
-Includes move validation, piece logic, and interactive UI rendering.
-
-### 🧮 Matrix Library (C++)
-A custom C++ matrix library implementing core linear algebra operations such as:
-- Matrix addition & subtraction  
-- Multiplication  
-- Transpose
-- Guassian elimination (REF)
-- Determinant
-- Inverse
-
-### 📈 Linear Regression from Scratch (C++)
-A linear regression model trained using gradient descent, implemented from scratch in C++.
-Predicts grades based on study hours. Includes a CSV data loader, training loop, and predictions.
-No external libraries used.
+## Currently Learning
+- Object-Oriented Programming  
+- Data Structures & Algorithms  
+- Linear Algebra, Statistics, and Discrete Math  
+- Machine Learning fundamentals  
+- Data analysis with Python  
 
 ---
 
-## 🎯 Goals
-- Build strong foundations in CS
-- Become skilled in AI & Data Science
-- Develop real-world projects and applications
-- Improve C++ and system-level programming skills
+## Projects
+
+### Chess Game (SFML)
+A simple chess game built using C++ and SFML.  
+It includes move validation, piece logic, and a basic interactive interface.  
+This project helped me understand how to organize and structure a larger program.
 
 ---
 
-## 📫 Contact
-- GitHub: [bisher07](https://github.com/bisher07)
-- Email: bisher.madi84@gmail.com
+### Matrix Library (C++)
+A small matrix library built from scratch to apply linear algebra concepts in code.  
+
+Includes:
+- Matrix operations (addition, subtraction, multiplication)  
+- Transpose  
+- Gaussian elimination (REF)  
+- Determinant and inverse  
+
+---
+
+### Linear Regression (C++)
+A basic linear regression model implemented from scratch using gradient descent.  
+
+It predicts grades based on study hours using a simple dataset.  
+Currently improving it and experimenting with better data.
+
+---
+
+## Goals
+- Build strong computer science fundamentals  
+- Grow in AI and data science  
+- Work on practical, real-world projects  
+- Improve problem-solving and coding skills  
+
+---
+
+## Contact
+- GitHub: https://github.com/bisher07  
+- Email: bisher.madi84@gmail.com  
