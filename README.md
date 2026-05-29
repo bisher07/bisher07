@@ -7,8 +7,7 @@ Right now, I'm focused on strengthening my fundamentals while exploring differen
 ## Skills
 - C++
 - Python  
-- Data Structures & Algorithms
-- Git & GitHub  
+- Data Structures & Algorithms 
 - Basic AI / Data Science knowledge  
 
 ---
